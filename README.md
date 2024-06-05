@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CallMeJappy
 - 👀 I’m interested in lots of stuff, mostly games and anime
-- 🌱 I’m currently learning Java, JS, HTML, CSS
+- 🌱 I’m currently learning Java, Python, and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
